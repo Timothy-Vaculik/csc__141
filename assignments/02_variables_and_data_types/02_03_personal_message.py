@@ -1,4 +1,4 @@
-# Say hello to everyone.
+
 print("I love Python!")
 
 '''
