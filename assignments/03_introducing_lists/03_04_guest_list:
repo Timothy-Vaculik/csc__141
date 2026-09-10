@@ -1,0 +1,5 @@
+guest = ["Drake", "Morgan Wallen", "Luke Bryan", "Madonna"]
+
+print(f"Hello {guest[0]}, I would like to invite you to dinner.")
+print(f"Hello {guest[1]}, I would like to invite you to dinner.")
+print(f"Hello {guest[2]}, I would like to invite you to dinner.")
